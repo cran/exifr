@@ -1,8 +1,8 @@
 Package: exifr
 Type: Package
 Title: EXIF Image Data in R
-Version: 0.2
-Date: 2017-09-24
+Version: 0.2.1
+Date: 2017-10-14
 Authors@R: c(person("Dewey", "Dunnington", role = c("aut", "cre"),
 				email = "dewey@fishandwhistle.net"),
 			person("Phil", "Harvey", role = "aut"))
@@ -26,8 +26,8 @@ BugReports: https://github.com/paleolimbot/exifr/issues
 RoxygenNote: 6.0.1
 Suggests: testthat
 NeedsCompilation: no
-Packaged: 2017-09-28 03:14:07 UTC; dewey
+Packaged: 2017-10-14 19:58:40 UTC; dewey
 Author: Dewey Dunnington [aut, cre],
   Phil Harvey [aut]
 Repository: CRAN
-Date/Publication: 2017-09-28 07:48:29 UTC
+Date/Publication: 2017-10-14 22:55:13 UTC
