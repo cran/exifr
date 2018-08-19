@@ -1,10 +1,10 @@
-61065849ee872c4ba48f7ddb007b7e28 *DESCRIPTION
+8bd7e3e68eaab632fb25e588f262e33a *DESCRIPTION
 7e0f0927a6f9d3c3d18aefe8e52e2ba8 *NAMESPACE
 089b87d0af4938bab0f02962c1c8cd94 *R/load_hook.R
 a129d7a403650f786c2f6f4696fae587 *R/read_exif.R
 986422139e7c32f4088cf508ea16bc28 *R/read_exif_old.R
-23def4ef4ca3f0d23f348fbb0d37797e *R/utils.R
-0e20f7f33fbb7fd37d6523d5abff1e64 *README.md
+4c22b9afc714bf43ce9bf2e8c873aeaf *R/utils.R
+afc8c540137435ae22088bc9e8ea93f8 *README.md
 8e3ca75f198b46c07dbba4a62868de78 *inst/images/Canon.jpg
 375161c0718769be51165fc386b76623 *inst/images/binary_tag.JPG
 07cbc11aa691e6010420c33ff1b98b19 *man/configure_exiftool.Rd
@@ -13,6 +13,6 @@ f9d1e8669cf2418a7e3c8ff855305191 *man/exifr.Rd
 60935df4c6e9dbaeaed20c9a4311512d *man/exiftool_call.Rd
 0b3299208f28d01bcf06615b33510986 *man/read_exif.Rd
 26f439d18683a5d8fb7063bba0948fba *tests/testthat.R
-c3125d8bfe48f71791b17d08b1f9e14d *tests/testthat/test_read_exif.R
+02b3a82a6a8f923ed068b9c2205645ee *tests/testthat/test_read_exif.R
 818f3e72cac1f478d430f9a7e90b7b40 *tests/testthat/test_read_exif_old.R
-6167b0625b0d29bbd7fda82e0621dd45 *tests/testthat/test_utils.R
+1bb0144e53d59c208f3ff45a937697ee *tests/testthat/test_utils.R
